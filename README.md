@@ -1,5 +1,7 @@
 # Youfiliate MCP Server
 
+<!-- mcp-name: io.github.andrewmpierce/youfiliate-mcp -->
+
 [![PyPI](https://img.shields.io/pypi/v/youfiliate-mcp.svg)](https://pypi.org/project/youfiliate-mcp/)
 [![Python](https://img.shields.io/pypi/pyversions/youfiliate-mcp.svg)](https://pypi.org/project/youfiliate-mcp/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)

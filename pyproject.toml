@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "youfiliate-mcp"
-version = "0.1.0"
+version = "0.1.1"
 description = "MCP server for Youfiliate Smart Links — manage geo-targeted affiliate links from Claude Desktop and other MCP-compatible AI assistants."
 readme = "README.md"
 requires-python = ">=3.11"
